@@ -1,0 +1,11 @@
+{
+  "name": "ribtodo",
+  "version": "1.0.0",
+  "description": "Todo app made with Rib",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Carr",
+  "license": "ISC"
+}
